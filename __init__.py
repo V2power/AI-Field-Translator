@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # Anki AI Field Translator Add-on
 # Copyright (c) 2025
+# Original author: Josscii
+# Fork and modifications: V2power
 # License: GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
 
 from PyQt6.QtWidgets import (QDialog, QVBoxLayout, QHBoxLayout, QLabel, QPushButton,
