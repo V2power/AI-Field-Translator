@@ -1,0 +1,14 @@
+{
+  "name": "AI Field Translator",
+  "package": "ai_field_translator",
+  "ankiweb_id": "",
+  "author": "Josscii",
+  "version": "1.0.0",
+  "homepage": "https://github.com/josscii/anki-ai-field-translator",
+  "conflicts": [],
+  "mod": 1707123456,
+  "description": "Translate Anki note fields using AI language models. Map source fields to target fields across multiple note types with customizable target languages.",
+  "tags": ["translation", "ai", "language learning", "field manipulation"],
+  "human_version": "1.0.0",
+  "schema_version": 1
+}
